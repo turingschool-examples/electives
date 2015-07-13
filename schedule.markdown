@@ -8,11 +8,9 @@
   - Goal #3 of session
 
 * Jamie Kawahara - "3D printing on the Lulzbot" (Student-led session, 2-4pm)
-  - how to pick a thing to print
-  - how to print it
-  - how to make 3d scans
-
-* Andrew Carmer
+  - Pick a thing to print
+  - Set up the 3D printer to print the item
+  - Make a 3D scan
 
 #### Friday, July 24
 
