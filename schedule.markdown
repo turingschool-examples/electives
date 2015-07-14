@@ -16,6 +16,11 @@
   - Use terminal aliases
   - Use browser plug-ins
   - Customize Sublime and Atom to be like vim
+  
+*Marla Brizel - "How agile works on a real-life dev team" (1 hour unless lots of questions)
+  - What is scrum? What is kanban?
+  - Understand iteration planning
+  - Understand team roles
 
 #### Friday, July 24
 
