@@ -26,6 +26,11 @@
 
 #### Friday, July 24
 
+* DJ Greenfield - "Amelioration Pattern: Modelling the Current User' (~1 hour)
+  - Identify the antipattern of current_user as a helper method
+  - Explore Draper and <%= render current_user.nav_partial %> as solutions
+  - Eliminate conditions from the views
+
 #### Friday, July 31
 
 #### Friday, August 7
