@@ -7,10 +7,15 @@
   - Goal #2 of session
   - Goal #3 of session
 
-* Jamie Kawahara - "3D printing on the Lulzbot" (Student-led session, 2-4pm)
+* Jamie Kawahara - "3D printing on the Lulzbot" (1 hour)
   - Pick a thing to print
   - Set up the 3D printer to print the item
   - Make a 3D scan
+
+* Dave Daniel - "Customizing your terminal and editor" (1ish hour)
+  - Use terminal aliases
+  - Use browser plug-ins
+  - Customize Sublime and Atom to be like vim
 
 #### Friday, July 24
 
