@@ -1,11 +1,13 @@
 ## Schedule
 
-* Example Student Name: Insert Topic Here
+* Presenter Name: Insert Topic Here
   - Goal #1 of session (ex: create a "hello, world" program in Python)
   - Goal #2 of session
   - Goal #3 of session
 
 #### Friday, July 17
+
+* Yong Bakos (not a student, but during student-led sessions) - Swift (2 hours)
 
 * Jamie Kawahara - "3D printing on the Lulzbot" (1 hour)
   - Pick a thing to print
