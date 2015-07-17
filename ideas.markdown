@@ -2,7 +2,12 @@
 * Refactoring techniques
 * Small JavaScript projects
 * Front-end design
+* Advanced ActiveRecord
 * Advanced Command Line
+* How to get a job (cover letters, resumes, interview tips, etc.)
+* Interesting/useful Ruby gems
+* CSS Templates
+* Bootstrap
 * Sonic Pi
 * iOS development
 * Building a gem
@@ -26,3 +31,12 @@
 * Database fundamentals
 * Mobile app development
 * Unity
+* JavaScript frameworks (Angular, Ember, React, Backbone, etc.)
+* Current trends and new tech
+* Watching conference talk videos
+* SQL
+* Object-Oriented Programming concepts
+* Collaboration and Communication
+* Advanced Git (rebasing, interactive rebase, cherry-picking, etc.)
+* Robotics
+* 
