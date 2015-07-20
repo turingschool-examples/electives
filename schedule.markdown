@@ -41,6 +41,12 @@
   - Making it more readable with awesome_print 
   - Tricks to make your workflow more efficient
   - How to test helpers, make app requests and more
+  
+* Lev Kravinsky - Reimplementing Enumerable and Enumerator (1-2 hours depending on interest)
+  - Build Enumerable's such as Map and Find on top of a custom Each method
+  - Build an Enumerator class that allows us to chain together our custom Enumerables
+  - Learn how to pass blocks around with the block slot (plus, blocks vs procs vs lambdas)
+  - Learn the basics of Fiber (yield, resume, alive?, etc)
 
 #### Friday, July 31
 
