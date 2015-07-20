@@ -1,6 +1,6 @@
 * Whiteboarding
 * Refactoring techniques
-* Small JavaScript projects
+* Small JavaScript projects +1
 * Front-end design
 * Advanced ActiveRecord
 * Advanced Command Line
@@ -10,14 +10,14 @@
 * Bootstrap
 * Sonic Pi
 * iOS development
-* Building a gem
+* Building a gem +1
 * Data Structure and Algorithms
 * Technical Interview Prep
 * Golang
 * Overview of another programming language (C, Java, Python, PHP, etc.)
 * Hardware Interaction
 * Agile
-* How tech integrates in other fields (finance, social, health, etc.)
+* How tech integrates in other fields (finance, social, health, etc.) +1
 * Configuring your editor
 * Configuring your environment
 * Advanced CSS
@@ -31,7 +31,7 @@
 * Database fundamentals
 * Mobile app development
 * Unity
-* JavaScript frameworks (Angular, Ember, React, Backbone, etc.)
+* JavaScript frameworks (Angular, Ember, React, Backbone, etc.) +1
 * Current trends and new tech
 * Watching conference talk videos
 * SQL
