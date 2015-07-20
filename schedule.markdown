@@ -31,6 +31,17 @@
   - Explore Draper and <%= render current_user.nav_partial %> as solutions
   - Eliminate conditions from the views
 
+* Michael Dorrance - Breaking down problems with wireframes (Student-led session, 2-4pm)
+  - Gain an understanding of the REAL user stories
+  - Introduce wireframing tools and techniques
+  - Lets break down the user stories with the classic project "Traffic Spy"
+  - Build a clickable wireframe of Traffic Spy using Balsamiq
+
+* Morgan Miller - Getting to know the Rails console (Student-led session)
+  - Making it more readable with awesome_print 
+  - Tricks to make your workflow more efficient
+  - How to test helpers, make app requests and more
+
 #### Friday, July 31
 
 #### Friday, August 7
