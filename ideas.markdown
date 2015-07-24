@@ -42,3 +42,6 @@
 * Deep Dives into Ruby
 * Swift
 * Rust
+* Tesla/SpaceX
+* Augmented Reality vs Virtual Reality
+* Brain-Computer Interfaces
