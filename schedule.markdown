@@ -55,3 +55,6 @@
   - Workshop: Importing Bootstrap into a Rails Project
   - Workshop: Transferring a wireframe to html and css using Bootstrap
 #### Friday, August 7
+* White boarding with Mike Reeves
+  - Work through algorithms and interview questions on the board in front of your peers
+  - Discuss topics such as recursion, data structures, timing of solutions
