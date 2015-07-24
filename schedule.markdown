@@ -49,5 +49,9 @@
   - Learn the basics of Fiber (yield, resume, alive?, etc)
 
 #### Friday, July 31
-
+* Michael Dorrance - Bootstrap basics (Student-led session, 2-4pm)
+  - Gain an understanding of what Bootstrap is
+  - Introduce "Mobile First" design, the grid and components of Bootstrap
+  - Workshop: Importing Bootstrap into a Rails Project
+  - Workshop: Transferring a wireframe to html and css using Bootstrap
 #### Friday, August 7
