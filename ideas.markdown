@@ -39,4 +39,5 @@
 * Collaboration and Communication
 * Advanced Git (rebasing, interactive rebase, cherry-picking, etc.)
 * Robotics
-* 
+* Deep Dives into Ruby
+
