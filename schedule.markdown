@@ -54,6 +54,12 @@
   - Introduce "Mobile First" design, the grid and components of Bootstrap
   - Workshop: Importing Bootstrap into a Rails Project
   - Workshop: Transferring a wireframe to html and css using Bootstrap
+
+* Russell Harms - Cryptography and Bitcoin (2 hours)
+  - Understand the basic cryptography that goes into things like HTTPS, SSH, and Git
+  - Learn how Bitcoin uses cryptography to uniquely solve problems in payment systems
+  - Install a Bitcoin wallet on your Android or iOS phone to send/recieve bitcoins
+
 #### Friday, August 7
 * White boarding with Mike Reeves
   - Work through algorithms and interview questions on the board in front of your peers
