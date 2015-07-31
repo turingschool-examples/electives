@@ -69,3 +69,9 @@
 * White boarding with Mike Reeves
   - Work through algorithms and interview questions on the board in front of your peers
   - Discuss topics such as recursion, data structures, timing of solutions
+
+#### Friday, August 28
+* Distributed Database Systems(NoSQL) with George Hudson
+  - Learn the advantages of distributed databases
+  - Learn how to deploy/update to DDB
+  - troubleshooting DDB
