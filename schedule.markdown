@@ -60,12 +60,14 @@
   - Learn how Bitcoin uses cryptography to uniquely solve problems in payment systems
   - Install a Bitcoin wallet on your Android or iOS phone to send/recieve bitcoins
   
-* Lev Kravinsky - Building a Gem 
-  - Learn what a gem is/how it works
-  - Learn how to push one to rubygems
-  - Learn about gempspecs, *.gem, versioning, namespacing, etc
 
 #### Friday, August 7
 * White boarding with Mike Reeves
   - Work through algorithms and interview questions on the board in front of your peers
   - Discuss topics such as recursion, data structures, timing of solutions
+
+* Lev Kravinsky - Building a Gem 
+  - Learn what a gem is/how it works
+  - Learn how to push one to rubygems
+  - Learn about gempspecs, *.gem, versioning, namespacing, etc
+  - After we all build a gem, I can ramble about singleton methods, metaprogramming, and monkey-patching!
