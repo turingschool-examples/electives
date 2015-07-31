@@ -69,3 +69,8 @@
 * White boarding with Mike Reeves
   - Work through algorithms and interview questions on the board in front of your peers
   - Discuss topics such as recursion, data structures, timing of solutions
+
+* Let's start an open source project with Lovisa Svallingson 
+  - the problem: improve the mentor/mentee situation  
+  - the solution: build some sort of scheduling platform where mentees can search mentors by topic
+  - plan for the session: plan the app and write stories so people can start contributing whenever they find the time
