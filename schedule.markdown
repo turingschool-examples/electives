@@ -71,6 +71,7 @@
   - Discuss topics such as recursion, data structures, timing of solutions
 
 * Let's start an open source project with Lovisa Svallingson 
-  - the problem: improve the mentor/mentee situation  
-  - the solution: build some sort of scheduling platform where mentees can search mentors by topic
-  - plan for the session: plan the app and write stories so people can start contributing whenever they find the time
+  - problem to solve: mentor/mentee situation
+    - make it as effortless as possible to find mentors with certain skills, schedule pairing sessions and perhaps also create a better option to #mentor-hotline.   
+  - plan for session: discuss project (maybe tackle another problem?), write user stories, establish git workflow. 
+  - I don't want to be the person leading this project, the goal is to make this as collaborative as possible. 
