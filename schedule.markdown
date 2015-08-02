@@ -69,7 +69,7 @@
 * White boarding with Mike Reeves
   - Work through algorithms and interview questions on the board in front of your peers
   - Discuss topics such as recursion, data structures, timing of solutions
-  - 
+  
 * Michael Dorrance - Bootstrap basics (Student-led session, 2-4pm)
   - Gain an understanding of what Bootstrap is
   - Introduce "Mobile First" design, the grid and components of Bootstrap
