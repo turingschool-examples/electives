@@ -48,7 +48,7 @@
   - Learn how to pass blocks around with the block slot (plus, blocks vs procs vs lambdas)
   - Learn the basics of Fiber (yield, resume, alive?, etc)
 
-#### Friday, July 31
+#### Friday, July 31 -- CANCELLED
 * Michael Dorrance - Bootstrap basics (Student-led session, 2-4pm)
   - Gain an understanding of what Bootstrap is
   - Introduce "Mobile First" design, the grid and components of Bootstrap
@@ -69,3 +69,19 @@
 * White boarding with Mike Reeves
   - Work through algorithms and interview questions on the board in front of your peers
   - Discuss topics such as recursion, data structures, timing of solutions
+  - 
+* Michael Dorrance - Bootstrap basics (Student-led session, 2-4pm)
+  - Gain an understanding of what Bootstrap is
+  - Introduce "Mobile First" design, the grid and components of Bootstrap
+  - Workshop: Importing Bootstrap into a Rails Project
+  - Workshop: Transferring a wireframe to html and css using Bootstrap
+
+* Russell Harms - Cryptography and Bitcoin (2 hours)
+  - Understand the basic cryptography that goes into things like HTTPS, SSH, and Git
+  - Learn how Bitcoin uses cryptography to uniquely solve problems in payment systems
+  - Install a Bitcoin wallet on your Android or iOS phone to send/recieve bitcoins
+  
+* Lev Kravinsky - Building a Gem 
+  - Learn what a gem is/how it works
+  - Learn how to push one to rubygems
+  - Learn about gempspecs, *.gem, versioning, namespacing, etc
