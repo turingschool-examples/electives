@@ -81,7 +81,18 @@
   - Learn how Bitcoin uses cryptography to uniquely solve problems in payment systems
   - Install a Bitcoin wallet on your Android or iOS phone to send/recieve bitcoins
   
-* Lev Kravinsky - Building a Gem 
+* Lev Kravinsky - Building a Gem & The 10x Developer
+This is a doozie, get ready...it's two mini sessions packed into one!
+
+Part 1 - Building a Gem (45-60 minutes) - this one is gonna be fun!
   - Learn what a gem is/how it works
   - Learn how to push one to rubygems
   - Learn about gempspecs, *.gem, versioning, namespacing, etc
+  
+Part 2 - The 10x Developer (60-75 minutes) - this one will be super practical.
+  - Shell tricks (aliases, functions, fish vs zsh vs bash), 
+  - Heroku tricks (running production rails console locally, auto-uploading environment variables)
+  - Mac workflow apps (Karabiner, Dash, Alfred, RescueTime, Wunderlist, Flux, etc)
+  - Vim workflow (plugins, interesting commands, keybindings, snippets)
+
+
