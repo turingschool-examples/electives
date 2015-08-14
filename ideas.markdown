@@ -1,3 +1,5 @@
+* Effective Presentations
+* React & Flux/Redux
 * Whiteboarding
 * Refactoring techniques
 * Small JavaScript projects +1
