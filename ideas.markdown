@@ -46,3 +46,4 @@
 * Augmented Reality vs Virtual Reality
 * Brain-Computer Interfaces
 * Anything security-related
+* Automation stuff- Code Climate, Travis, etc.
