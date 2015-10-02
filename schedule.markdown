@@ -85,3 +85,38 @@
   - Learn what a gem is/how it works
   - Learn how to push one to rubygems
   - Learn about gempspecs, *.gem, versioning, namespacing, etc
+  - 
+  
+#### Friday, October 16th
+* Introduction to Swift 1-4pm
+  -Start on the basics of Swift
+  -Use playgrounds to explore the language
+  -Go over similarities and differences to Ruby and other languages... it has TUPLES!
+
+#### Friday, October 23
+* Swift Continuation
+  -build on the principals of last friday
+  -details will be based on feedback
+
+
+#### Friday, October 30
+* Swift
+  -etc
+
+
+
+#### Friday, November 6
+* Swift
+
+
+#### Friday, November 13
+* Swift
+
+
+#### Friday, November 20
+* Final Swift class for the module
+  -Anyone have projects to demo?
+
+
+#### Friday, November 27
+ - RECOVER FROM EATING TOO MUCH!!!
