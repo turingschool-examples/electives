@@ -46,3 +46,4 @@
 * Augmented Reality vs Virtual Reality
 * Brain-Computer Interfaces
 * Anything security-related
+* Rails new to a bootstrap styled page
